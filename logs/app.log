@@ -1,0 +1,28 @@
+2024-08-03 19:39:23,588:INFO:Data loaded successfully.
+2024-08-03 19:39:23,589:INFO:Unnecessary columns dropped.
+2024-08-03 19:39:23,595:INFO:Dummy variables created.
+2024-08-03 19:39:23,596:INFO:OverTime and Attrition mapped.
+2024-08-03 19:39:27,922:INFO:Data scaled successfully.
+2024-08-03 19:39:27,922:INFO:Data split into train and test sets.
+2024-08-03 19:39:27,933:INFO:Logistic Regression model trained successfully.
+2024-08-03 19:39:28,445:INFO:Model evaluation completed.
+2024-08-03 19:39:28,800:INFO:SVM model with linear kernel trained successfully.
+2024-08-03 19:39:29,362:INFO:Model evaluation completed.
+2024-08-03 19:39:29,499:INFO:SVM model with rbf kernel trained successfully.
+2024-08-03 19:39:30,345:INFO:Model evaluation completed.
+2024-08-03 19:39:30,435:INFO:SVM model with poly kernel trained successfully.
+2024-08-03 19:39:31,069:INFO:Model evaluation completed.
+2024-08-03 20:11:08,452:INFO:Data loaded successfully.
+2024-08-03 20:11:08,469:INFO:Unnecessary columns dropped.
+2024-08-03 20:11:08,493:INFO:Dummy variables created.
+2024-08-03 20:11:08,494:INFO:OverTime and Attrition mapped.
+2024-08-03 20:11:12,827:INFO:Data scaled successfully.
+2024-08-03 20:11:12,827:INFO:Data split into train and test sets.
+2024-08-03 20:11:12,844:INFO:Logistic Regression model trained successfully.
+2024-08-03 20:11:13,279:INFO:Model evaluation completed.
+2024-08-03 20:11:13,702:INFO:SVM model with linear kernel trained successfully.
+2024-08-03 20:11:14,135:INFO:Model evaluation completed.
+2024-08-03 20:11:14,249:INFO:SVM model with rbf kernel trained successfully.
+2024-08-03 20:11:15,047:INFO:Model evaluation completed.
+2024-08-03 20:11:15,151:INFO:SVM model with poly kernel trained successfully.
+2024-08-03 20:11:15,763:INFO:Model evaluation completed.
